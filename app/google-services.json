@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287534658530",
+    "firebase_url": "https://myfirebase-80a94.firebaseio.com",
+    "project_id": "myfirebase-80a94",
+    "storage_bucket": "myfirebase-80a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287534658530:android:b716555f7ac24404",
+        "android_client_info": {
+          "package_name": "com.example.dell.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287534658530-ltbj6onhlf3k0ad5nt81fqeiv8t460qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5C-Pjh1FHNU_gfhkaNfY0REJlPLr7tA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
